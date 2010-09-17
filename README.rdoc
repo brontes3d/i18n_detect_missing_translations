@@ -1,0 +1,6 @@
+Some utility methods for finding missing translations in your rails app.
+
+
+Copyright (c) 2008-2010 3M. All rights reserved. Released under the MIT license.
+
+Authored by Jacob Burkhart.
